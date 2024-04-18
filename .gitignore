@@ -1,0 +1,9 @@
+.vscode
+Library
+Logs
+ProjectSettings
+Temp
+.DS_Store
+*.csproj
+*.sln
+UserSettings
